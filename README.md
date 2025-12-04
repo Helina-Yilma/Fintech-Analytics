@@ -1,5 +1,5 @@
 # Fintech-Analytics
-##KAIM Week 2 Customer Experience Analytics for Fintech Apps
+## KAIM Week 2 Customer Experience Analytics for Fintech Apps
 
 This repository contains the full data science pipeline for analyzing user reviews of three selected Ethiopian bank mobile applications (Commercial Bank of Ethiopia (CBE), Bank of Abyssinia (BOA), and Dashen Bank).
 
