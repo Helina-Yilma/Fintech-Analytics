@@ -1,14 +1,20 @@
 # Fintech-Analytics
-KAIM Week 2 Customer Experience Analytics for Fintech Apps
+##KAIM Week 2 Customer Experience Analytics for Fintech Apps
+
 This repository contains the full data science pipeline for analyzing user reviews of three selected Ethiopian bank mobile applications (Commercial Bank of Ethiopia (CBE), Bank of Abyssinia (BOA), and Dashen Bank).
+
 ​The goal is to provide actionable recommendations to improve app features, enhance customer support efficiency, and ultimately boost user satisfaction and retention.
-​Business Objective & Key Scenarios
+
+## ​Business Objective & Key Scenarios
 ​The primary objective is to transform unstructured user feedback into measurable insights. This project directly addresses the following consulting scenarios:
-​User Retention: Analyze if issues like slow loading/transfers are widespread pain points.
-​Feature Enhancement: Extract desired features (e.g., fingerprint login, faster loading) for competitive recommendations.
-​Complaint Management: Cluster and track common complaints (e.g., login error) to guide AI chatbot integration and support strategy.
-​Project Pipeline and Methodology
+
+* ​User Retention: Analyze if issues like slow loading/transfers are widespread pain points.
+* ​Feature Enhancement: Extract desired features (e.g., fingerprint login, faster loading) for competitive recommendations.
+* ​Complaint Management: Cluster and track common complaints (e.g., login error) to guide AI chatbot integration and support strategy.
+  
+​## Project Pipeline and Methodology
 ​The project follows a structured four-phase data science and engineering workflow.
+
 ​Phase 1: Data Collection and Preprocessing (Task 1) - Completed
 ​Source: Google Play Store reviews scraped from three target bank apps.
 ​Data Size: 1,200+ reviews collected (minimum 400 per bank).
